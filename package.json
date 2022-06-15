@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
   "dependencies": {
     "cors-anywhere": "^0.4.4"
   }
